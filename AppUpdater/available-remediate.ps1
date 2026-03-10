@@ -1,2 +1,2 @@
-iex (irm "https://raw.githubusercontent.com/woodyard/public-scripts/main/remediations/availableUpgrades-remediate.ps1")
+iex (irm "https://raw.githubusercontent.com/woodyard/anco/main/AppUpdater/availableUpgrades-remediate.ps1")
 $exitCode = $LASTEXITCODE
